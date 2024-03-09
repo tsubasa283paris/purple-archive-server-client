@@ -1,0 +1,14 @@
+{
+    "local": {
+        "host": "localhost",
+        "username": "postgres",
+        "password": "postgres",
+        "database": "purple_archive_db"
+    },
+    "prod": {
+        "host": "***-postgres.render.com",
+        "username": "***",
+        "password": "***",
+        "database": "***"
+    }
+}
